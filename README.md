@@ -82,7 +82,7 @@ Epoch 9000 - Loss: 0.0022
 ### Running the Code:
 1. Clone the repository:
    bash
-   git clone https://github.com/jadhav-Bhavesh/Neural-Network-from-Scratch/blob/main/Code
+   git clone https://github.com/jadhav-Bhavesh/Neural-Network-from-Scratch.git
    cd Neural_network_from_scratch
    
 2. Run the script:
@@ -103,4 +103,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 Bhavesh Jadhav
-GitHub: [ayushbhalerao7](https://github.com/ayushbhalerao7)
+GitHub: [jadhav-Bhavesh](https://github.com/jadhav-Bhavesh)
